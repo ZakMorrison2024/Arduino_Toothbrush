@@ -38,7 +38,7 @@ This project is a DIY smart toothbrush powered by Arduino. It aims to improve br
 ## How to Use
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/arduino-smart-toothbrush.git
+   git clone https://github.com/zakmorrison2024/arduino-smart-toothbrush.git
    ```
 2. **Upload the Code**:
    - Open the `toothbrush.ino` file in Arduino IDE.
@@ -58,5 +58,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ## Contact
 For questions or suggestions, please contact:
 **Zak Morrison**  
-[GitHub Profile](https://github.com/yourusername)  
-Email: your.email@example.com
+[GitHub Profile](https://github.com/zakmorrison2024)  
